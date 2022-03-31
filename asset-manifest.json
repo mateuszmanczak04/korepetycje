@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/korepetycje/static/css/main.99717945.css",
+    "main.js": "/korepetycje/static/js/main.73ed6761.js",
+    "static/media/profile.jpg": "/korepetycje/static/media/profile.b3cd7cc8e67af40541e5.jpg",
+    "index.html": "/korepetycje/index.html",
+    "static/media/wave.svg": "/korepetycje/static/media/wave.36ae413a31015fa51a807b05d6f08d6a.svg",
+    "main.99717945.css.map": "/korepetycje/static/css/main.99717945.css.map",
+    "main.73ed6761.js.map": "/korepetycje/static/js/main.73ed6761.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99717945.css",
+    "static/js/main.73ed6761.js"
+  ]
+}
