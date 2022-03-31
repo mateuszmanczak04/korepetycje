@@ -1,16 +1,13 @@
 import React from 'react';
+
+import Wave from 'images/wave.svg';
+
 import './Header.scss';
 
 const Header = () => {
   return (
-    <header>
+    <header className='header'>
       <div className='logo'>Mateusz Mańczak</div>
-      <ul className='navlist'>
-        <li>O mnie</li>
-        <li>Poziom</li>
-        <li>Cennik</li>
-        <li>Kontakt</li>
-      </ul>
     </header>
   );
 };

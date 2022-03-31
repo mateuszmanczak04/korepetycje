@@ -1,0 +1,17 @@
+.footer__container {
+  display: flex;
+  padding: 2rem 3rem;
+  flex-direction: row;
+  gap: 2rem;
+
+  a {
+    font-size: 2rem;
+    color: var(--color-primary);
+    transition: 0.2s ease;
+
+    &:hover {
+      cursor: pointer;
+      color: var(--color-white);
+    }
+  }
+}
